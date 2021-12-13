@@ -1,2 +1,3 @@
 Teste de git pelo cmd
 nova linha
+commit branch master
