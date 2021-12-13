@@ -1,3 +1,6 @@
 Teste de git pelo cmd
 nova linha
 commit branch master
+branch master commit
+conflito resolvido
+
